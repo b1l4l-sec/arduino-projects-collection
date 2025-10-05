@@ -18,10 +18,7 @@ This repository contains various **Arduino-based projects**, from simple circuit
 - 📶 **Wi-Fi & Bluetooth Modules (ESP8266, HC-05)**  
 - 🔋 **Motors, Servos, and Relays**  
 
-## 🎥 Watch the Projects in Action!  
 
-You can see all of these projects as videos on my Instagram:  
-👉 [lb_programming on Instagram](https://www.instagram.com/lb_programming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)  
 
 ## 🚀 How to Use  
 
